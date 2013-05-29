@@ -14,3 +14,8 @@ iOS Auto Layout Testing
 ## Other code
 
 * [Centering a UILabel](https://github.com/evgenyneu/center-vfl)
+
+## Visual
+
+![](https://github.com/dlinsin/AutoLayoutTest/wiki/files/prev.png)
+![](https://github.com/dlinsin/AutoLayoutTest/wiki/files/prev-landscape.png)
