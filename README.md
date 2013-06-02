@@ -16,6 +16,11 @@ iOS Auto Layout Testing
 * [Centering a UILabel](https://github.com/evgenyneu/center-vfl)
 * [Library simplyfying usage](https://github.com/dkduck/FLKAutoLayout)
 
+## License
+
+Run with it! 
+
+
 ## Visual
 
 ![](https://github.com/dlinsin/AutoLayoutTest/wiki/files/prev.png)
